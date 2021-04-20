@@ -1,0 +1,17 @@
+{
+	"color": {
+		"button": {
+			"cta": {
+				"value": "#ee4433"
+			},
+			"default": {
+				"static": {
+					"value": "#ffe56a"
+				},
+				"disabled": {
+					"value": "lightgray"
+				}
+			}
+		}
+	}
+}
